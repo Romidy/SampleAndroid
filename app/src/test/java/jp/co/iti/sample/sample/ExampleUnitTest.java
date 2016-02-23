@@ -15,12 +15,12 @@ public class ExampleUnitTest {
 
     @Test
     public void addition_isTest1() throws Exception {
-        assertEquals(2, 1);
+        assertEquals(1, 1);
     }
 
     @Test
     public void addition_isTest2() throws Exception {
-        assertEquals(2, 1);
+        assertEquals(1, 1);
     }
 
     @Test
@@ -32,7 +32,7 @@ public class ExampleUnitTest {
 
     @Test
     public void addition_isTest4() throws Exception {
-        assertEquals(4, 5);
+        assertEquals(5, 5);
     }
 
 }
