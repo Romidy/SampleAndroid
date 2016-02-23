@@ -30,4 +30,9 @@ public class ExampleUnitTest {
         assertEquals(3, 3);
     }
 
+    @Test
+    public void addition_isTest4() throws Exception {
+        assertEquals(4, 3);
+    }
+
 }
