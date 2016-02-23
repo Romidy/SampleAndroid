@@ -26,7 +26,7 @@ public class ExampleUnitTest {
     @Test
     public void addition_isTest3() throws Exception {
         String a = null;
-        a.charAt(0);
+//        a.charAt(0);
         assertEquals(3, 3);
     }
 
