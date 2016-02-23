@@ -12,4 +12,15 @@ public class ExampleUnitTest {
     public void addition_isCorrect() throws Exception {
         assertEquals(5, 2 + 2);
     }
+
+    @Test
+    public void addition_isTest1() throws Exception {
+        assertEquals(1, 1);
+    }
+
+    @Test
+    public void addition_isTest2() throws Exception {
+        assertEquals(2, 1);
+    }
+
 }
