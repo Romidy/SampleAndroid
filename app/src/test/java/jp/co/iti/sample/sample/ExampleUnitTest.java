@@ -32,7 +32,7 @@ public class ExampleUnitTest {
 
     @Test
     public void addition_isTest4() throws Exception {
-        assertEquals(4, 4);
+        assertEquals(3, 4);
     }
 
     @Test
